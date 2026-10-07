@@ -24,5 +24,5 @@ I currently work at Ethiopian Airlines as an Aircraft Maintenance Program Engine
 - Building practical applications to solve real-world problems.
 
 ### 📫 Contact
-- Email: YOUR_EMAIL
+- Email: abdigeleto24@gmail.com
 - GitHub: https://github.com/abdigeleto
